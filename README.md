@@ -8,5 +8,5 @@
 | Work Queues       | Done   |
 | Publish/Subscribe | Done   |
 | Routing           | Done   |
-| Topics            |        |
+| Topics            | Done   |
 | RPC               |        |
